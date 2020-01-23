@@ -1,0 +1,6 @@
+*.tlog
+*.obj
+*.pdb
+*.idb
+*.log
+/.vs/

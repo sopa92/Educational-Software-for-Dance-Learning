@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/rumba-lesson.unity
+  isLoaded: 1
+  isActive: 1
